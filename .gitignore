@@ -1,0 +1,5 @@
+# Archivos que Git no debe subir
+.env
+venv/
+__pycache__/
+*.log
