@@ -7,7 +7,7 @@ Objetivo: dejar listo WSL Ubuntu, VS Code, Python 3, Git y la cuenta de GitHub.
 - [x] Instalar Python 3 y Git dentro de WSL (Python 3.14.4, pip 25.1.1, venv, Git 2.53.0)
 - [x] Configurar nombre y correo de Git (correo privado noreply de GitHub)
 - [x] Crear el repositorio nube-ia en GitHub y subir esta carpeta
-- [] Curso GitHub Skills: Introduction to GitHub
+- [ ] Curso GitHub Skills: Introduction to GitHub
 
 ## Notas
 - Trabajar los proyectos dentro de Linux (`~/nube-ia`), no en `/mnt/c`.
